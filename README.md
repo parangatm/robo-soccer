@@ -18,6 +18,13 @@ or '{Arduino IDE path}\hardware\libraries" or {Arduino IDE path}\libraries" dire
 
 Restart the Arduino IDE, and open up the example sketch.
 
+### Controls
+
+- Movement via **Left Joystick**
+- Abdrupt brake by **R1**
+- Gate movement by **Triangle** and **Cross**
+- Slight directional turning by **R2** and **L2**
+
 ### Further Scope
 This project can very well be made autonomous, using Infrared Sensing, or Computer Vision. This is an open-end. 
 _Suggestions are welcome_.
